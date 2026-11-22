@@ -1,7 +1,7 @@
 // EDIT THIS FILE to change your business details and content.
 export const SITE = {
   name: 'Anvi Creative',
-  whatsapp: '8608336232', // country code + number, no + or spaces
+  whatsapp: '+91 99999 99999', // country code + number, no + or spaces
   email: 'anvicreative11@gmail.com',
   phone: '+91 99999 99999',
   address: 'Chennai, Tamil Nadu, India',
